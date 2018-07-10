@@ -1,0 +1,40 @@
+{
+    "events": [
+        {
+            "id": 1234,
+            "city": "Oostende",
+            "img": "https://dummyimage.com/600x400/000/fff",
+            "liked": 0,
+            "title": "This is an event tiel ééé }{)''''",
+            "detail": "",
+            "location": {
+                "lat": 51.216370,
+                "lng": 4.420468
+            }
+        },
+        {
+            "id": 1235,
+            "city": "Oostende",
+            "img": "https://dummyimage.com/600x400/000/fff",
+            "liked": 0,
+            "title": "This is an event tiel ééé }{)''''",
+            "detail": "",
+            "location": {
+                "lat": 50.216370,
+                "lng": 4.420468
+            }
+        },
+        {
+            "id": 1236,
+            "city": "Oostende",
+            "img": "https://dummyimage.com/600x400/000/fff",
+            "liked": 0,
+            "title": "This is an event tiel ééé }{)''''",
+            "detail": "",
+            "location": {
+                "lat": 49.216370,
+                "lng": 4.420468
+            }
+        }
+    ]
+}
